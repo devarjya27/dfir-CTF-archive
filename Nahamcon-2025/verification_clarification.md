@@ -8,6 +8,8 @@ WARNING: Please examine this challenge inside of a virtual machine for your own 
 
 **Category : Malware**
 
+(solved during the CTF)
+
 # Writeup
 going to the link provided to use we are greeted with a captcha
 
