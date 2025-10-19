@@ -13,7 +13,7 @@ A repository logging the better ctf challenges I've come across in the domains o
 | Bombardino Exfilrino               | bi0sCTF 2025              |
 | Anansitap                          | bi0sCTF 2025              |
 | ഒണപ്പൂക്കളം                        | bi0sCTF 2025              |
-| Verification Clarfication          | Nahamcon 2025             |
+| [Verification Clarfication](Nahamcon-2025/verification_clarification.md)          | Nahamcon 2025             |
 | Oh no, my computer!                | DawgCTF 2025              |
 | Macro.EXE                          | niteCTF 2024              |
 | Batman Investigation Series        | bi0s                      |
