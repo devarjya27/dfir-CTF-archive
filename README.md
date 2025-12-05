@@ -1,5 +1,5 @@
 # dfir-CTF-archive
-A repository logging the better ctf challenges I've come across in the domains of digital forensics, incident response and malware analysis. (mainly so that i don't forget to upsolve them)
+A repository logging the better ctf challenges I've come across in the domains of digital forensics, incident response and malware analysis.
 
 ## Challenge List
 | Challenge Name                     | CTF                 | Solves                  |
