@@ -4,6 +4,7 @@ A repository logging the better ctf challenges I've come across in the domains o
 ## Challenge List
 | Challenge Name                     | CTF                 | Solves                  |
 |------------------------------------|---------------------------|------------------------|
+| Operation Pensieve Breach Series   | HeroCTF 2025              | -                       |
 | Shadow Cache                       | QnQSecCTF 2025            | 2                       |
 | Masks                              | QnQSecCTF 2025            | 10                      |
 | Wimdows                            | BYUCTF 2025               | -                       |
